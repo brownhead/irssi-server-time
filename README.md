@@ -22,9 +22,13 @@ timestamp format back to whatever it was before.
 Instructions
 ------------
 
-This script is intended to be loaded before connecting to a server; then it
-will request the server-time capability upon connecting. Make sure to include
-it in your autorun directory (~/.irssi/scripts/autorun/).
+Add `server_time.pl` to your scripts directory (likely at
+`~/.irssi/scripts/`). This script is intended to be loaded before connecting to a server, so I'd recommend adding a symlink in your autorun directory.
+
+You can run `make` in the project directory to create a
+`server_time.withcomments.pl` file that has this README and the License added
+to the top as comments (this is the file that's published to
+`scripts.irssi.org`).
 
 Changelog
 ---------
