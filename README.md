@@ -22,8 +22,13 @@ timestamp format back to whatever it was before.
 Instructions
 ------------
 
-Add `server_time.pl` to your scripts directory (likely at
-`~/.irssi/scripts/`). This script is intended to be loaded before connecting to a server, so I'd recommend adding a symlink in your autorun directory.
+You can most easily install this script from
+[scripts.irssi.org](https://scripts.irssi.org/).
+
+If you'd like to install from this repo. Add `server_time.pl` to your scripts
+directory (likely at `~/.irssi/scripts/`). This script is intended to be loaded
+before connecting to a server, so I'd recommend adding a symlink in your
+autorun directory.
 
 You can run `make` in the project directory to create a
 `server_time.withcomments.pl` file that has this README and the License added
