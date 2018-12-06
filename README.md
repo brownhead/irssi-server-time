@@ -1,4 +1,4 @@
-Note: The fork at https://github.com/itsjohncs/irssi-server-time is the
+*Note*: [This fork](https://github.com/itsjohncs/irssi-server-time) is the
 correct place to open up issues. The original repo seems to be unmaintained.
 
 Summary
